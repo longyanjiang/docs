@@ -1,14 +1,12 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /css/
-  "v-74458d05": () => import(/* webpackChunkName: "v-74458d05" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/css/index.html.js").then(({ data }) => data),
+  // path: /html/
+  "v-14b2ee8b": () => import(/* webpackChunkName: "v-14b2ee8b" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/html/index.html.js").then(({ data }) => data),
   // path: /golang/
   "v-7630e300": () => import(/* webpackChunkName: "v-7630e300" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/golang/index.html.js").then(({ data }) => data),
   // path: /golang/one.html
   "v-69408533": () => import(/* webpackChunkName: "v-69408533" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/golang/one.html.js").then(({ data }) => data),
-  // path: /html/
-  "v-14b2ee8b": () => import(/* webpackChunkName: "v-14b2ee8b" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/html/index.html.js").then(({ data }) => data),
   // path: /javascript/
   "v-e02a086e": () => import(/* webpackChunkName: "v-e02a086e" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/javascript/index.html.js").then(({ data }) => data),
   // path: /nodejs/

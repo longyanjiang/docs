@@ -3,14 +3,12 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /css/
-  "v-74458d05": defineAsyncComponent(() => import(/* webpackChunkName: "v-74458d05" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/css/index.html.vue")),
+  // path: /html/
+  "v-14b2ee8b": defineAsyncComponent(() => import(/* webpackChunkName: "v-14b2ee8b" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/html/index.html.vue")),
   // path: /golang/
   "v-7630e300": defineAsyncComponent(() => import(/* webpackChunkName: "v-7630e300" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/golang/index.html.vue")),
   // path: /golang/one.html
   "v-69408533": defineAsyncComponent(() => import(/* webpackChunkName: "v-69408533" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/golang/one.html.vue")),
-  // path: /html/
-  "v-14b2ee8b": defineAsyncComponent(() => import(/* webpackChunkName: "v-14b2ee8b" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/html/index.html.vue")),
   // path: /javascript/
   "v-e02a086e": defineAsyncComponent(() => import(/* webpackChunkName: "v-e02a086e" */"/Users/xiaojiu/Desktop/snine-project/docs/docs/.vuepress/.temp/pages/javascript/index.html.vue")),
   // path: /nodejs/

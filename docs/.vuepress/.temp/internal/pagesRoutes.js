@@ -1,9 +1,8 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"文档中心","icon":"home","type":"home","readingTime":{"minutes":1.51,"words":452},"excerpt":""},["/index.html","/README.md"]],
-  ["v-74458d05","/css/",{"title":"","type":"article","readingTime":{"minutes":0.02,"words":5},"excerpt":"这是css首页"},["/css/index.html","/css/README.md"]],
+  ["v-14b2ee8b","/html/",{"title":"","type":"article","readingTime":{"minutes":0.02,"words":5},"excerpt":"这是html首页"},["/html/index.html","/html/README.md"]],
   ["v-7630e300","/golang/",{"title":"","type":"article","readingTime":{"minutes":0.03,"words":8},"excerpt":"golang 这个是golang的分类"},["/golang/index.html","/golang/README.md"]],
   ["v-69408533","/golang/one.html",{"title":"","type":"article","readingTime":{"minutes":0.01,"words":4},"excerpt":"golang 第一篇"},["/golang/one","/golang/one.md"]],
-  ["v-14b2ee8b","/html/",{"title":"","type":"article","readingTime":{"minutes":0.02,"words":5},"excerpt":"这是html首页"},["/html/index.html","/html/README.md"]],
   ["v-e02a086e","/javascript/",{"title":"","type":"article","readingTime":{"minutes":0.02,"words":5},"excerpt":"这是js首页"},["/javascript/index.html","/javascript/README.md"]],
   ["v-2fe4ecaa","/nodejs/",{"title":"","type":"article","readingTime":{"minutes":0.01,"words":3},"excerpt":"这是nodejs"},["/nodejs/index.html","/nodejs/README.md"]],
   ["v-ae655e44","/nodejs/one.html",{"title":"","type":"article","readingTime":{"minutes":0.01,"words":4},"excerpt":"nodejs第一篇"},["/nodejs/one","/nodejs/one.md"]],

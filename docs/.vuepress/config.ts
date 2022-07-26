@@ -5,6 +5,6 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "文档中心",
   description: "Snine的中文文档",
-  base: "/",
+  base: "/docs/",
   theme,
 });
