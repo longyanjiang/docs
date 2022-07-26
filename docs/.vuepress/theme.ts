@@ -3,8 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
-
+  hostname: "https://longyanjiang.github.io/docs/",
   author: {
     name: "Snine.jiang",
     url: "https://jiangly.com",

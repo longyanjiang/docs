@@ -1,2 +1,14 @@
-<template><div><p>这是css首页</p>
+<template><div><h2 id="什么是-css" tabindex="-1"><a class="header-anchor" href="#什么是-css" aria-hidden="true">#</a> 什么是 CSS?</h2>
+<p>在 HTML 概述 模块我们学习了 HTML 是什么，以及如何使用它来组成页面。 浏览器能够解析这些页面。标题部分看起来会比正常文本更大，段落则会另起一行，并且相互之间会有一定间隔。链接通过下划线和不同的颜色与其他文本区分开来。这些都是浏览器的默认样式——当开发者没有指定样式时，浏览器通过这些最简单的样式使页面具有基本可读性。</p>
+<p>如果所有网站都像上图那样，互联网就会非常枯燥。但是使用 CSS 就可以完全控制浏览器如何显示 HTML 元素，从而充分展示你喜欢的设计样式。</p>
+<h2 id="css-用来干什么" tabindex="-1"><a class="header-anchor" href="#css-用来干什么" aria-hidden="true">#</a> CSS 用来干什么？</h2>
+<ul>
+<li>前文提到过，CSS 是用来指定文档如何展示给用户的一门语言——如网页的样式、布局、等等。</li>
+</ul>
+<p>一份<strong>文档</strong>是由标记语言组织起来的文本文件 —— <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/HTML" target="_blank" rel="noopener noreferrer">HTML<ExternalLinkIcon/></a> 是最常见的标记语言， 但你可能也听说过其他可标记语言，如 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/SVG" target="_blank" rel="noopener noreferrer">SVG<ExternalLinkIcon/></a> 或 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/XML" target="_blank" rel="noopener noreferrer">XML<ExternalLinkIcon/></a>。</p>
+<p><strong>展示</strong>一份文档给用户实际上是将文档变成用户可用的文件。<a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Browser" target="_blank" rel="noopener noreferrer">Browsers<ExternalLinkIcon/></a>：如 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Mozilla_Firefox" title="Currently only available in English (US)" target="_blank" rel="noopener noreferrer">Firefox (en-US)<ExternalLinkIcon/></a>，<a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Google_Chrome" target="_blank" rel="noopener noreferrer">Chrome<ExternalLinkIcon/></a>, 或 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Microsoft_Edge" title="Currently only available in English (US)" target="_blank" rel="noopener noreferrer">Edge (en-US)<ExternalLinkIcon/></a>，都可以将文档在电脑屏幕、投影仪或打印机等设备上进行可视化。</p>
+<p><strong>注意</strong>: 浏览器有时候也被称为 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/User_agent" target="_blank" rel="noopener noreferrer">user agent<ExternalLinkIcon/></a>，大致可以当这个程序是一个存在于计算机系统中的人。当我们讨论 CSS 时，浏览器是 User agent 的主要形式，然而它并不是唯一的一个。还有其他可用的 user agents</p>
+<p>— 像是那些可以把 HTML 和 CSS 文档转换为可以打印的 PDF 文档的软件。CSS 可以用于给文档添加样式</p>
+<p>—— 比如改变标题和链接的<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/color_value" target="_blank" rel="noopener noreferrer">颜色<ExternalLinkIcon/></a>及<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-size" target="_blank" rel="noopener noreferrer">大小<ExternalLinkIcon/></a>。它也可用于创建布局</p>
+<p>—— 比如将一个单列文本变成包含主要内容区域和存放相关信息的侧边栏区域的<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/Layout_cookbook/Column_layouts" target="_blank" rel="noopener noreferrer">布局<ExternalLinkIcon/></a>。它甚至还可以用来做一些特效，比如<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations" target="_blank" rel="noopener noreferrer">动画<ExternalLinkIcon/></a>。查看本段内容中所给出的特定案例。</p>
 </div></template>

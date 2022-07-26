@@ -1,35 +1,292 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/guide/": [
+  "/html/": [
     {
-      text: "如何使用",
-      icon: "creative",
-      link: "",
-      activeMatch: "/guide/"
-    },
-  ],
-  "/golang/": [
-    {
-      text: "Go基础",
-      icon: "creative",
-      link: "/golang/",
+      text: "Html基础知识",
+      icon: "launch",
+      link: "basics/",
       prefix: "basics/",
       collapsable: true,
       children: [
         {
-          text: "为什么要学go",
-          link: "为什么要学go.md"
+          text: "基础一",
+          link: "基础一.md"
         },
         {
-          text: "go基础语法", 
-          link: "go的基础语法.md"
+          text: "基础二", 
+          link: "基础二.md"
         }
       ],
-      // activeMatch: "/golang/"
+    },
+    {
+      text: "Html进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/css/": [
+    {
+      text: "Css基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "Css进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/javascript/": [
+    {
+      text: "Js基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "Js进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
     }
   ],
   "/nodejs/": [
-    "one"
+    {
+      text: "NodeJs基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "NodeJs进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/golang/": [
+    {
+      text: "Go基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "Go进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/python/": [
+    {
+      text: "Py基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "Py进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/vue/": [
+    {
+      text: "Vue基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "Vue进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
+  ],
+  "/react/": [
+    {
+      text: "React基础知识",
+      icon: "launch",
+      link: "basics/",
+      prefix: "basics/",
+      collapsable: true,
+      children: [
+        {
+          text: "基础一",
+          link: "基础一.md"
+        },
+        {
+          text: "基础二", 
+          link: "基础二.md"
+        }
+      ],
+    },
+    {
+      text: "React进阶知识",
+      icon: "launch",
+      link: "advanced/",
+      prefix: "advanced/",
+      collapsable: true,
+      children: [
+        {
+          text: "进阶一",
+          link: "进阶一.md"
+        },
+        {
+          text: "进阶二", 
+          link: "进阶二.md"
+        }
+      ],
+    }
   ]
 });

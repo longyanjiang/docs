@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/docs/\",\"lang\":\"zh-CN\",\"title\":\"文档中心\",\"description\":\"Snine的中文文档\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/docs/\",\"lang\":\"zh-CN\",\"title\":\"简明文档\",\"description\":\"Snine的笔记、中文文档、前端文档、后端文档、学习资料、随笔、日常问题。\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/logo.png\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
