@@ -14,20 +14,48 @@ actions:
     link: https://jiangly.com
 
 features:
-  - title: golang
+
+  - title: Html
+    icon: /icon/icon-html.png
+    details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
+    link: "/html/"
+
+  - title: Css
+    icon: /icon/icon-css.png
+    details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
+    link: "/css/"
+
+  - title: JavaScript
+    icon: /icon/icon-js.png
+    details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
+    link: "/javascript/"
+
+  - title: NodeJs
+    icon: /icon/icon-node.png
+    details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
+    link: "/nodejs/"
+
+  - title: GoLang
     icon: /icon/icon-go.png
     details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
     link: "/golang/"
 
-  - title: golang
-    icon: /icon/icon-go.png
+  - title: Python
+    icon: /icon/icon-py.png
+    details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
+    link: "/python/"
+
+  - title: VueJs
+    icon: /icon/icon-vue.png
     details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
     link: "/golang/"
 
-  - title: golang
-    icon: /icon/icon-go.png
+  - title: ReactJs
+    icon: /icon/icon-react.png
     details: Go语言也称 Golang,兼具效率、性能、安全、健壮等特性。这套Go语言教程(Golang教程)通俗易懂,深入浅出
-    link: "/golang/"
+    link: "/reactjs/"
+
+  
 
   
 copyright: false
