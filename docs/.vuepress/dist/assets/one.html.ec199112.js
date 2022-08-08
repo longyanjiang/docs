@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as t,a as n}from"./app.4c479d6b.js";const _={},c=n("p",null,"golang \u7B2C\u4E00\u7BC7",-1),r=[c];function a(s,l){return o(),t("div",null,r)}var m=e(_,[["render",a],["__file","one.html.vue"]]);export{m as default};

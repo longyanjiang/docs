@@ -35,16 +35,6 @@ features:
     details: 是一个基于Chrome V8引擎的JavaScript运行环境，使用了一个事件驱动、非阻塞式I/O模型，让JavaScript运行在服务端的开发平台。
     link: "/nodejs/"
 
-  - title: GoLang
-    icon: /icon/icon-go.png
-    details: Go（又称Golang）是Google开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。
-    link: "/golang/"
-
-  - title: Python
-    icon: /icon/icon-py.png
-    details: Python，是一种广泛使用的解释型、高级和通用的编程语言。Python支持多种编程范型，包括函数式、指令式、反射式、结构化和面向对象编程。
-    link: "/python/"
-
   - title: VueJs
     icon: /icon/icon-vue.png
     details: VueJs是一个用于创建用户界面的开源MVVM前端JavaScript框架，也是一个创建单页应用的Web应用框架。
@@ -54,6 +44,16 @@ features:
     icon: /icon/icon-react.png
     details: React（也称为 React.js 或 ReactJS）是一个免费的开放源代码前端 JavaScript工具库，用于基于 UI 组件构建用户界面。
     link: "/reactjs/"
+
+  - title: GoLang
+    icon: /icon/icon-go.png
+    details: Go（又称Golang）是Google开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。
+    link: "/golang/"
+
+  - title: Python
+    icon: /icon/icon-py.png
+    details: Python，是一种广泛使用的解释型、高级和通用的编程语言。Python支持多种编程范型，包括函数式、指令式、反射式、结构化和面向对象编程。
+    link: "/python/"
 
 copyright: false
 footer: MIT Licensed | Copyright © 2022-present Snine.jiang
